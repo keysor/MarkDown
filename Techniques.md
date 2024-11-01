@@ -9,3 +9,5 @@ Mastering the basics is the key to snowboarding. Although the basics are conside
 
 ### Stance
 > It's important to figure out how you perfer to stance up on the board. I often tell people to run and jump on an imaginary board. Which foot lands forward?
+```text
+Regular (Left foot forward) or Goofy (Right foot forward)
