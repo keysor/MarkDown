@@ -13,8 +13,8 @@ Depending on what you plan on doing on the mountain will change what kind of sno
 
 ### Safety Gear
 - Helmet
-Although nothing is stopping you from not wearing a helmet, this will keep your brain safe. Please wear a helmet. 
+: Although nothing is stopping you from not wearing a helmet, this will keep your brain safe. Please wear a helmet. 
 - Goggles
-Goggles aren't necessary but a good pair of goggles will shield your eyes from snow and wind. They also are often polarized for daytime or clear for nighttime. If it's bright out a good pair of goggles will keep you from being blinded by the bright snow.
+: Goggles aren't necessary but a good pair of goggles will shield your eyes from snow and wind. They also are often polarized for daytime or clear for nighttime. If it's bright out a good pair of goggles will keep you from being blinded by the bright snow.
 - Gloves
-Again, not necessary, but these will keep your hands warm and shield your palms from some damage that could occur if you fall and slide on snow. Mittens are warmer and usually perferred by snowboarders as you don't need to grip ski poles.
+: Again, not necessary, but these will keep your hands warm and shield your palms from some damage that could occur if you fall and slide on snow. Mittens are warmer and usually perferred by snowboarders as you don't need to grip ski poles.
